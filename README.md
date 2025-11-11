@@ -42,8 +42,7 @@ A continuous shot following a school of thousands of tiny, silvery fish swimming
 
 <img width="1919" height="982" alt="image" src="https://github.com/user-attachments/assets/4519ee88-f660-45e5-a794-5965a847332b" />
 
-# Result: 
-The Prompt of the above task executed successfully
+# Result: The Prompt of the above task executed successfully
 
 
 
