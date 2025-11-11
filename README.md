@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
-# Date: 
-# Register no.:
+# Date: 11.11.25
+# Register no.: 212223040066
 # Aim: To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
@@ -36,6 +36,14 @@ Save different versions of the videos and compare the results to understand how 
 A time-lapse video showing a vibrant green mountain range at sunrise. The camera slowly pans right, then smoothly zooms out to reveal a massive, glittering waterfall flowing into a crystal-clear lake. Style: Hyper-realistic, 8K resolution, dynamic volumetric lighting
 
 <img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/f2b4d508-b412-409d-bcd7-1acdf56e18e4" />
+
+
+
+
+
+
+https://github.com/user-attachments/assets/143fc456-0aef-4f00-b973-fa5bdc6021f0
+
 
 # Prompt:
 A continuous shot following a school of thousands of tiny, silvery fish swimming rapidly through a dark, deep-sea trench. They suddenly part to reveal a colossal, luminous jellyfish drifting by in the background. Lighting: Deep-sea bioluminescence, high contrast.
